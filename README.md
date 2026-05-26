@@ -5,8 +5,6 @@ A clean, responsive web application to track and manage job applications. It hel
 ## Tech Stack
 
 *   **Frontend Framework:** React 19
-*   **Routing & SSR:** TanStack Start (file-based routing with Server-Side Rendering)
-*   **State Management & Data Fetching:** TanStack Query (React Query)
 *   **Styling:** Tailwind CSS v4 & shadcn/ui
 *   **Database & Authentication:** Supabase
 *   **Bundler & Dev Server:** Vite
